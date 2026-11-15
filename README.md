@@ -36,13 +36,14 @@ Glassless7 is a lightweight, portable Python utility that dynamically styles Win
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com
+   git clone https://github.com/MasterG9008/Glassless7.git
    cd Glassless7
    ```
 
 2. **Install dependencies:**
    ```bash
-   pip install pillow
+  python -m pip install pillow
+  python Glassless7setup.py
    ```
 
 3. **Run the application:**
