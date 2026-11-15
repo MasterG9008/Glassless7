@@ -1,5 +1,5 @@
  Glassless7
-
+ 
 Bring Windows 7 Aero window styling and glossy caption buttons to Windows 11—with zero DLL injection, zero registry edits, and zero system file modifications.
 
 Glassless7 is a lightweight, portable Python utility that dynamically styles Windows 11 title bars using native Desktop Window Manager (DWM) attributes and renders real-time, DPI-aware Windows 7 Aero-style glossy overlays over window control buttons (Minimize, Maximize/Restore, Close).
