@@ -33,8 +33,8 @@ Dependencies:
 
 Clone the repository:
    ```bash
-   git clone https://github.com
-   cd glassless7
+   git clone https://github.com/MasterG9008/Glassless7
+  
    ```
 
 Install dependencies:
