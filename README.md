@@ -44,7 +44,7 @@ Install dependencies:
 
 Run the application:
    ```bash
-   python main.py
+   python glassles7setup
    
 
 First-Time Setup:
