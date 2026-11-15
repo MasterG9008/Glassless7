@@ -41,10 +41,6 @@ Install dependencies:
    ```bash
    pip install pillow
    ```
-
-Run the application:
-   ```bash
-   python glassles7setup
    
 
 First-Time Setup:
